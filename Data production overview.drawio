@@ -1,5 +1,5 @@
-<mxfile modified="2020-01-24T10:29:52.444Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="roGezIUrTmlzoSVG_RYf" version="12.5.6" type="github" pages="4">
-  <diagram id="aeb7LgtqN6Uwn5X8-ysb" name="Stage 1-2 Via WP7">
+<mxfile modified="2020-01-24T10:34:27.515Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="MydrWlaBDmfv2e0XKvbn" version="12.5.6" type="github" pages="4">
+  <diagram id="aeb7LgtqN6Uwn5X8-ysb" name="Stage 2-3 Via WP7">
     <mxGraphModel dx="1458" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
@@ -379,7 +379,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rkBUswCPS22HoN5DLCj5" name="Stage 1-2 via Dataverse">
+  <diagram id="rkBUswCPS22HoN5DLCj5" name="Stage 0-2 via Dataverse">
     <mxGraphModel dx="1458" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NS0eG-JlMeMma_0mSy3--0"/>
@@ -468,7 +468,7 @@
         <mxCell id="i9RioHXcWZIX31tU3eQO-0" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=message;" parent="6zSFGCsgWJnyRSAjhiPo-3" vertex="1">
           <mxGeometry x="632" y="215" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="6zSFGCsgWJnyRSAjhiPo-20" value="&lt;div&gt;EURHISFIRM &lt;br&gt;&lt;/div&gt;&lt;div&gt;central support&lt;/div&gt;" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=23;" parent="6zSFGCsgWJnyRSAjhiPo-2" vertex="1">
+        <mxCell id="6zSFGCsgWJnyRSAjhiPo-20" value="&lt;div&gt;EURHISFIRM &lt;br&gt;&lt;/div&gt;&lt;div&gt;central support&lt;/div&gt;" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=30;" parent="6zSFGCsgWJnyRSAjhiPo-2" vertex="1">
           <mxGeometry x="20" y="647" width="1590" height="343" as="geometry"/>
         </mxCell>
         <mxCell id="6zSFGCsgWJnyRSAjhiPo-21" value="Common Data Model definitions" style="shape=datastore;whiteSpace=wrap;html=1;" parent="6zSFGCsgWJnyRSAjhiPo-20" vertex="1">
@@ -503,7 +503,7 @@
         <mxCell id="FIIpJOMmxFUvWM6QhiS9-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6zSFGCsgWJnyRSAjhiPo-20" source="YlT7sBuLaIt1WL4KYhNL-2" target="6zSFGCsgWJnyRSAjhiPo-37" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="YlT7sBuLaIt1WL4KYhNL-2" value="&lt;div&gt;Process dataset as stage 1 (no CDM) or 2 (CDM used)&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="6zSFGCsgWJnyRSAjhiPo-20" vertex="1">
+        <mxCell id="YlT7sBuLaIt1WL4KYhNL-2" value="&lt;div&gt;Process dataset as stage 0 (no scans), 1 (no CDM) or 2 (scans and CDM used)&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="6zSFGCsgWJnyRSAjhiPo-20" vertex="1">
           <mxGeometry x="597" y="63" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="HTrAAps5BERHTEB903YS-0" value="EURHISFIRM Dataverse setup" style="shape=datastore;whiteSpace=wrap;html=1;" parent="6zSFGCsgWJnyRSAjhiPo-20" vertex="1">
@@ -581,7 +581,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eIsDiNrTnf5FpED5uTo0-0" value="Linking competence group" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=23;" parent="6zSFGCsgWJnyRSAjhiPo-2" vertex="1">
+        <mxCell id="eIsDiNrTnf5FpED5uTo0-0" value="Research Centre" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=23;" parent="6zSFGCsgWJnyRSAjhiPo-2" vertex="1">
           <mxGeometry x="20" y="481" width="1590" height="166" as="geometry"/>
         </mxCell>
         <mxCell id="1zD5Upz0kOD3P7n9vH3Z-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="6zSFGCsgWJnyRSAjhiPo-2" source="CfD8tcmFofAnOTCzsjhe-0" target="1zD5Upz0kOD3P7n9vH3Z-0" edge="1">
@@ -592,7 +592,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="StcGPXZg6Vh0WlSZSXJ_" name="Stage 1 - 2 Manual entry">
+  <diagram id="StcGPXZg6Vh0WlSZSXJ_" name="Stage 0-2 Manual entry">
     <mxGraphModel dx="1458" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="oZCL1Nwg26oPMsbeNufO-0"/>
