@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-24T10:57:46.667Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="5cB4HgMvbQ_khLVCSegu" version="12.5.6" type="github" pages="4">
+<mxfile modified="2020-01-24T11:12:40.367Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="v2AKXlrAssX4q9aOGins" version="12.5.6" type="github" pages="4">
   <diagram id="aeb7LgtqN6Uwn5X8-ysb" name="Stage 2-3 Via WP7">
     <mxGraphModel dx="1215" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -836,13 +836,13 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="yXz6dI1xHnC2NhjYVgwt-10" value="Update project backlog based on user value, amount of work and time available" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="yXz6dI1xHnC2NhjYVgwt-50" vertex="1">
-          <mxGeometry x="297.5" y="78" width="120" height="80" as="geometry"/>
+          <mxGeometry x="283.5" y="78" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yXz6dI1xHnC2NhjYVgwt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yXz6dI1xHnC2NhjYVgwt-50" source="yXz6dI1xHnC2NhjYVgwt-14" target="yXz6dI1xHnC2NhjYVgwt-10" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="UGSAzwxtp4bAL3AP71f3-1" value="Backlog" style="shape=datastore;whiteSpace=wrap;html=1;" parent="yXz6dI1xHnC2NhjYVgwt-50" vertex="1">
-          <mxGeometry x="327.5" y="230" width="60" height="60" as="geometry"/>
+          <mxGeometry x="314.5" y="230" width="60" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="UGSAzwxtp4bAL3AP71f3-3" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="yXz6dI1xHnC2NhjYVgwt-50" source="UGSAzwxtp4bAL3AP71f3-1" target="yXz6dI1xHnC2NhjYVgwt-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -872,7 +872,7 @@
             <mxPoint x="1222" y="83" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yXz6dI1xHnC2NhjYVgwt-27" value="(per project) discuss criteria for modernization of numeric values" style="html=1;whiteSpace=wrap;rounded=1;" parent="yXz6dI1xHnC2NhjYVgwt-50" vertex="1">
+        <mxCell id="yXz6dI1xHnC2NhjYVgwt-27" value="(per project) discuss formulae for modernization of numeric values" style="html=1;whiteSpace=wrap;rounded=1;" parent="yXz6dI1xHnC2NhjYVgwt-50" vertex="1">
           <mxGeometry x="995" y="78" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="yXz6dI1xHnC2NhjYVgwt-28" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;" parent="yXz6dI1xHnC2NhjYVgwt-27" vertex="1">
@@ -908,7 +908,7 @@
             <mxPoint x="230" y="-71" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="1538" y="19"/>
-              <mxPoint x="358" y="19"/>
+              <mxPoint x="350" y="19"/>
             </Array>
           </mxGeometry>
         </mxCell>
@@ -945,6 +945,9 @@
             <mxPoint x="1000" y="910" as="sourcePoint"/>
             <mxPoint x="2167" y="639" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kCaRd1SeGi5AgXPivWvZ-0" value="Task" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="yXz6dI1xHnC2NhjYVgwt-50">
+          <mxGeometry x="820" y="240" width="120" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
