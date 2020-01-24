@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-24T10:25:36.597Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="TpOXO-TIwDjjZmVlHqv6" version="12.5.6" type="github" pages="4">
+<mxfile modified="2020-01-24T10:26:27.027Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="9A_MWjgsULEKPyqfFa3d" version="12.5.6" type="github" pages="4">
   <diagram id="aeb7LgtqN6Uwn5X8-ysb" name="Stage 1-2 Via WP7">
     <mxGraphModel dx="1458" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="10" y="10" width="340" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="U57ou9IUssCvTuUCNo3O-1" value="EURHISFIRM data production" style="swimlane;html=1;horizontal=0;startSize=20;" parent="1" vertex="1">
-          <mxGeometry x="10" y="99" width="2560" height="1020" as="geometry"/>
+          <mxGeometry x="10" y="99" width="2470" height="1020" as="geometry"/>
         </mxCell>
         <mxCell id="U57ou9IUssCvTuUCNo3O-2" value="Researcher" style="swimlane;html=1;horizontal=0;swimlaneLine=0;" parent="U57ou9IUssCvTuUCNo3O-1" vertex="1">
-          <mxGeometry x="20" width="2540" height="310" as="geometry"/>
+          <mxGeometry x="20" width="2450" height="310" as="geometry"/>
         </mxCell>
         <mxCell id="U57ou9IUssCvTuUCNo3O-3" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=standard;symbol=general;" parent="U57ou9IUssCvTuUCNo3O-2" vertex="1">
           <mxGeometry x="124" y="40" width="50" height="50" as="geometry"/>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U57ou9IUssCvTuUCNo3O-7" value="&lt;div&gt;EURHISFIRM &lt;br&gt;&lt;/div&gt;&lt;div&gt;central support&lt;/div&gt;" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=32;" parent="U57ou9IUssCvTuUCNo3O-1" vertex="1">
-          <mxGeometry x="21" y="789" width="2539" height="230" as="geometry"/>
+          <mxGeometry x="21" y="789" width="2449" height="230" as="geometry"/>
         </mxCell>
         <mxCell id="vf-o4X7pLAh3DDvAFRm--19" value="&lt;div&gt;Set metadata (stage 2) and manage project access&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="U57ou9IUssCvTuUCNo3O-7" vertex="1">
           <mxGeometry x="1559" y="30" width="121" height="80" as="geometry"/>
@@ -138,7 +138,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="U57ou9IUssCvTuUCNo3O-6" value="&lt;div&gt;WP7 group: computer scientist,engineering expert, &lt;br&gt;&lt;/div&gt;&lt;div&gt;DB expert, researcher&lt;/div&gt;" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=30;" parent="U57ou9IUssCvTuUCNo3O-1" vertex="1">
-          <mxGeometry x="21" y="499" width="2539" height="290" as="geometry"/>
+          <mxGeometry x="21" y="499" width="2449" height="290" as="geometry"/>
         </mxCell>
         <mxCell id="U57ou9IUssCvTuUCNo3O-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="U57ou9IUssCvTuUCNo3O-6" source="U57ou9IUssCvTuUCNo3O-24" target="U57ou9IUssCvTuUCNo3O-28" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -296,7 +296,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="48ehBGhcMnfqSamQGyXK-17" value="Research centre" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=23;" parent="U57ou9IUssCvTuUCNo3O-1" vertex="1">
-          <mxGeometry x="21" y="310" width="2539" height="190" as="geometry"/>
+          <mxGeometry x="21" y="310" width="2449" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="oWo16Apj3Yx3HFk0ltDL-1" value="Matching and consolidation&amp;nbsp; between sources(stage 3)" style="html=1;whiteSpace=wrap;rounded=1;" parent="48ehBGhcMnfqSamQGyXK-17" vertex="1">
           <mxGeometry x="1869" y="15" width="120" height="80" as="geometry"/>
