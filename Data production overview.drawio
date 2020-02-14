@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-14T15:17:08.960Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="YU_v_hBgktWx8ivgZuvd" version="12.7.0" type="github" pages="6">
+<mxfile modified="2020-02-14T15:19:59.168Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="C9c6y13IBhGgEaDoEI2C" version="12.7.0" type="github" pages="6">
   <diagram id="aeb7LgtqN6Uwn5X8-ysb" name="Stage 1-2 Via WP7">
     <mxGraphModel dx="1662" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1148,7 +1148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ikP__8436mjcWWiL8vBi" name="Partner systems">
-    <mxGraphModel dx="4749" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="fQXPI3kDC-Th25V9sKJi-0"/>
         <mxCell id="fQXPI3kDC-Th25V9sKJi-1" parent="fQXPI3kDC-Th25V9sKJi-0"/>
@@ -1156,7 +1156,7 @@
           <mxGeometry x="10" y="10" width="360" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-1" value="EURHISFIRM data production" style="swimlane;html=1;horizontal=0;startSize=20;" vertex="1" parent="fQXPI3kDC-Th25V9sKJi-1">
-          <mxGeometry x="10" y="100" width="2310" height="880" as="geometry"/>
+          <mxGeometry x="10" y="100" width="2310" height="1540" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-2" value="Partner systems" style="swimlane;html=1;horizontal=0;swimlaneLine=0;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-1">
           <mxGeometry x="20" y="1" width="2260" height="169" as="geometry">
@@ -1170,10 +1170,10 @@
           <mxGeometry x="764" y="59.5" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-3" value="Central centre of coordination" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=26;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-1">
-          <mxGeometry x="20" y="170" width="2290" height="710" as="geometry"/>
+          <mxGeometry x="20" y="170" width="2290" height="1370" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-4" value="Stock exchange process new input" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
-          <mxGeometry x="511" y="379" width="120" height="80" as="geometry"/>
+          <mxGeometry x="540" y="411" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-7" value="Infrastructure DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
           <mxGeometry x="451" y="285" width="60" height="60" as="geometry"/>
@@ -1193,7 +1193,7 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-11" value="Securities process new input" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
-          <mxGeometry x="511" y="476" width="120" height="80" as="geometry"/>
+          <mxGeometry x="540" y="540" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-16" value="Feedback legal entity and subdiaries hierarchy " style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
           <mxGeometry x="729" y="133" width="120" height="75" as="geometry"/>
@@ -1238,7 +1238,7 @@
           <mxGeometry x="1770" y="93" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-31" value="&lt;div&gt;EURHISFIRM &lt;br&gt;&lt;/div&gt;&lt;div&gt;central support&lt;/div&gt;" style="swimlane;html=1;horizontal=0;swimlaneLine=0;startSize=33;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
-          <mxGeometry y="560" width="2290" height="150" as="geometry"/>
+          <mxGeometry y="1240" width="2290" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="HCu-c6_ubKvSadkO5TaH-32" value="Indexing and access&amp;nbsp; at EU level" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-31">
           <mxGeometry x="1840" y="60" width="120" height="80" as="geometry"/>
@@ -1395,13 +1395,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N6j_wbR2L-7f0zjFfJJk-22" value="Clear data from staged" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
-          <mxGeometry x="1019" y="240" width="120" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="N6j_wbR2L-7f0zjFfJJk-23" value="" style="endArrow=block;endFill=1;endSize=6;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HCu-c6_ubKvSadkO5TaH-3" target="N6j_wbR2L-7f0zjFfJJk-22">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="964" y="280" as="sourcePoint"/>
-            <mxPoint x="1030" y="280" as="targetPoint"/>
-          </mxGeometry>
+          <mxGeometry x="1029" y="411" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="N6j_wbR2L-7f0zjFfJJk-26" value="" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HCu-c6_ubKvSadkO5TaH-3" source="HCu-c6_ubKvSadkO5TaH-16" target="N6j_wbR2L-7f0zjFfJJk-35">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -1410,16 +1404,47 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N6j_wbR2L-7f0zjFfJJk-28" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
-          <mxGeometry x="225" y="225" width="50" height="50" as="geometry"/>
+          <mxGeometry x="225" y="426" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="N6j_wbR2L-7f0zjFfJJk-29" value="&lt;div&gt;Legal entities and &lt;br&gt;&lt;/div&gt;&lt;div&gt;subidiaries &lt;br&gt;&lt;/div&gt;&lt;div&gt;request already &lt;br&gt;&lt;/div&gt;&lt;div&gt;processed in the past &lt;br&gt;&lt;/div&gt;&lt;div&gt;and rejected by &lt;br&gt;&lt;/div&gt;&lt;div&gt;partner system?&lt;/div&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-29" value="&lt;div&gt;Legal entity and &lt;br&gt;&lt;/div&gt;&lt;div&gt;subidiaries &lt;br&gt;&lt;/div&gt;&lt;div&gt;request already &lt;br&gt;&lt;/div&gt;&lt;div&gt;processed in the past &lt;br&gt;&lt;/div&gt;&lt;div&gt;and rejected by &lt;br&gt;&lt;/div&gt;&lt;div&gt;partner system?&lt;/div&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
           <mxGeometry x="340" y="70" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="N6j_wbR2L-7f0zjFfJJk-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HCu-c6_ubKvSadkO5TaH-3" source="N6j_wbR2L-7f0zjFfJJk-35" target="N6j_wbR2L-7f0zjFfJJk-22">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="N6j_wbR2L-7f0zjFfJJk-35" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=parallelGw;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
-          <mxGeometry x="920" y="255" width="50" height="50" as="geometry"/>
+          <mxGeometry x="930" y="426" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-40" value="Infrastructure DB" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
+          <mxGeometry x="481.5" y="925" width="60" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-41" value="Feedback legal entity and subdiaries hierarchy " style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
+          <mxGeometry x="759.5" y="773" width="120" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-42" value="external controlled vocabularies" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
+          <mxGeometry x="620.5" y="915" width="70" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-43" value="Legal entity and subsidiaries deduplication, consolidation and corporate actions" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
+          <mxGeometry x="541.5" y="770" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-44" value="Contact partner system to discuss" style="html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
+          <mxGeometry x="541.5" y="660" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-45" value="" style="html=1;shape=mxgraph.bpmn.user_task;outlineConnect=0;" vertex="1" parent="N6j_wbR2L-7f0zjFfJJk-44">
+          <mxGeometry width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="7" y="7" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-46" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="N6j_wbR2L-7f0zjFfJJk-44">
+          <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
+            <mxPoint x="-7" y="-14" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-47" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=error;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
+          <mxGeometry x="711.5" y="675" width="50" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="N6j_wbR2L-7f0zjFfJJk-48" value="&lt;div&gt;Legal entity and &lt;br&gt;&lt;/div&gt;&lt;div&gt;subidiaries &lt;br&gt;&lt;/div&gt;&lt;div&gt;request already &lt;br&gt;&lt;/div&gt;&lt;div&gt;processed in the past &lt;br&gt;&lt;/div&gt;&lt;div&gt;and rejected by &lt;br&gt;&lt;/div&gt;&lt;div&gt;partner system?&lt;/div&gt;" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="HCu-c6_ubKvSadkO5TaH-3">
+          <mxGeometry x="370.5" y="710" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="F6zof3yLUQg8hGh9aLvV-9" value="&lt;div&gt;ID&#39;s for processing &lt;br&gt;&lt;/div&gt;&lt;div&gt;supranationally&lt;/div&gt;" style="endArrow=block;endFill=1;endSize=6;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HCu-c6_ubKvSadkO5TaH-1" source="F6zof3yLUQg8hGh9aLvV-3" target="F6zof3yLUQg8hGh9aLvV-5">
           <mxGeometry width="100" relative="1" as="geometry">
