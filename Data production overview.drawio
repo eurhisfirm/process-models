@@ -1,4 +1,4 @@
-<mxfile modified="2020-02-14T16:00:19.472Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="8znNkkCtyG9gib3tq8G8" version="12.7.0" type="github" pages="6">
+<mxfile modified="2020-02-14T16:01:59.088Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="zzHOGWUGA5ZPzs6y-TEu" version="12.7.0" type="github" pages="6">
   <diagram id="aeb7LgtqN6Uwn5X8-ysb" name="Stage 1-2 Via WP7">
     <mxGraphModel dx="1662" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1148,7 +1148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ikP__8436mjcWWiL8vBi" name="Partner systems">
-    <mxGraphModel dx="4749" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="fQXPI3kDC-Th25V9sKJi-0"/>
         <mxCell id="fQXPI3kDC-Th25V9sKJi-1" parent="fQXPI3kDC-Th25V9sKJi-0"/>
@@ -1550,6 +1550,9 @@
             <mxPoint x="1760" y="620" as="sourcePoint"/>
             <mxPoint x="1640" y="120" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TKiQQat1t_wXGf8YWpyB-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Note: diagram for having other data at stage 4 still do be designed&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fQXPI3kDC-Th25V9sKJi-1">
+          <mxGeometry x="440" y="45" width="548" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
