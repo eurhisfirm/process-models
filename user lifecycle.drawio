@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T12:07:55.420Z" agent="5.0 (X11)" etag="MfczYVM6D0i_KlRCvWhM" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T12:17:15.480Z" agent="5.0 (X11)" etag="40ZcthoF_Gu1Ji_7yq0a" version="14.1.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1284" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
         <mxCell id="BgRHk9iPL6Y_tmHIkgqk-4" value="Applicant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BgRHk9iPL6Y_tmHIkgqk-5" value="Member (general)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BgRHk9iPL6Y_tmHIkgqk-5" value="Data consumer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BgRHk9iPL6Y_tmHIkgqk-6" value="Data production project member" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BgRHk9iPL6Y_tmHIkgqk-7" value="Centre of research member" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BgRHk9iPL6Y_tmHIkgqk-7" value="Research center member" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BgRHk9iPL6Y_tmHIkgqk-8" value="Network integration center member" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
