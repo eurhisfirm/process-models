@@ -1,4 +1,4 @@
-<mxfile modified="2021-01-29T15:52:16.460Z" host="app.diagrams.net" agent="5.0 (X11)" etag="rfCyiHVepPyLKYhN_Khn" version="14.2.3" type="github" pages="6">
+<mxfile modified="2021-01-29T15:54:45.333Z" host="app.diagrams.net" agent="5.0 (X11)" etag="rRr_iBu8PvbJi56JiCYR" version="14.2.3" type="github" pages="6">
   <diagram id="aeb7LgtqN6Uwn5X8-ysb" name="Stage 1-3 Via WP7">
     <mxGraphModel dx="2031" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="YTOW5BuQNDsywqQVDmaI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="U57ou9IUssCvTuUCNo3O-2" source="hXHtLepj-7hlu4ber1UF-3" target="U57ou9IUssCvTuUCNo3O-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hXHtLepj-7hlu4ber1UF-3" value="Dataset checkout: set metadata" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="U57ou9IUssCvTuUCNo3O-2" vertex="1">
+        <mxCell id="hXHtLepj-7hlu4ber1UF-3" value="Dataset checkout" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="U57ou9IUssCvTuUCNo3O-2" vertex="1">
           <mxGeometry x="1856" y="121" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YTOW5BuQNDsywqQVDmaI-15" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=catching;symbol=message;" parent="U57ou9IUssCvTuUCNo3O-2" vertex="1">
@@ -381,7 +381,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rkBUswCPS22HoN5DLCj5" name="Stage 0-1 via Dataverse">
-    <mxGraphModel dx="1219" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="NS0eG-JlMeMma_0mSy3--0" />
         <mxCell id="NS0eG-JlMeMma_0mSy3--1" parent="NS0eG-JlMeMma_0mSy3--0" />
@@ -488,22 +488,22 @@
           <mxGeometry x="1083" y="48" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6zSFGCsgWJnyRSAjhiPo-44" value="Infrastructure DB" style="shape=datastore;whiteSpace=wrap;html=1;" parent="6zSFGCsgWJnyRSAjhiPo-20" vertex="1">
-          <mxGeometry x="762.5" y="153" width="60" height="60" as="geometry" />
+          <mxGeometry x="627" y="163" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6zSFGCsgWJnyRSAjhiPo-45" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="6zSFGCsgWJnyRSAjhiPo-20" source="6zSFGCsgWJnyRSAjhiPo-44" target="YlT7sBuLaIt1WL4KYhNL-2" edge="1">
+        <mxCell id="6zSFGCsgWJnyRSAjhiPo-45" value="" style="endArrow=none;dashed=1;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="6zSFGCsgWJnyRSAjhiPo-20" source="6zSFGCsgWJnyRSAjhiPo-44" target="YlT7sBuLaIt1WL4KYhNL-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1199" y="300" as="sourcePoint" />
             <mxPoint x="1249" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YlT7sBuLaIt1WL4KYhNL-2" value="&lt;div&gt;Process dataset as stage 0 or 1 and manage project access&lt;br&gt;&lt;/div&gt;" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="6zSFGCsgWJnyRSAjhiPo-20" vertex="1">
-          <mxGeometry x="597" y="57" width="120" height="93" as="geometry" />
+          <mxGeometry x="597" y="29" width="120" height="93" as="geometry" />
         </mxCell>
         <mxCell id="HTrAAps5BERHTEB903YS-0" value="EURHISFIRM Dataverse setup" style="shape=datastore;whiteSpace=wrap;html=1;" parent="6zSFGCsgWJnyRSAjhiPo-20" vertex="1">
           <mxGeometry x="30" y="45" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LZF4qVQTJyDv_etnAdWn-0" value="Dataset approval required?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" parent="6zSFGCsgWJnyRSAjhiPo-20" vertex="1">
-          <mxGeometry x="456.5" y="79" width="50" height="50" as="geometry" />
+          <mxGeometry x="456.5" y="51" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="32Je74cHbi556BuMtQfo-1" value="Approved" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="6zSFGCsgWJnyRSAjhiPo-20" source="LZF4qVQTJyDv_etnAdWn-0" target="YlT7sBuLaIt1WL4KYhNL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -571,8 +571,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Stage 0-1 via Colectica" id="TJGDpBY7fNoVzFgmfLTY">
-    <mxGraphModel dx="1662" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="ARCHIEF Stage 0-1 via Colectica" id="TJGDpBY7fNoVzFgmfLTY">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ddjNSpZRvWLHEjSyopym-0" />
         <mxCell id="ddjNSpZRvWLHEjSyopym-1" parent="ddjNSpZRvWLHEjSyopym-0" />
@@ -766,7 +766,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="StcGPXZg6Vh0WlSZSXJ_" name="Stage 1 Manual entry">
-    <mxGraphModel dx="1662" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="oZCL1Nwg26oPMsbeNufO-0" />
         <mxCell id="oZCL1Nwg26oPMsbeNufO-1" parent="oZCL1Nwg26oPMsbeNufO-0" />
